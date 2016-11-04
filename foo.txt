@@ -1,1 +1,2 @@
-apple banana orange pear
+apple orange
+banana
